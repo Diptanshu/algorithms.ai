@@ -1,0 +1,6 @@
+Next Iteration List:
+
+1. Rearrange String k Distance Apart
+2. Shuffle String
+3. Largest Subarray Length K
+4. Insert Interval
