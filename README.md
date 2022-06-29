@@ -1,1 +1,1 @@
-# algorithms - fang -palo -ai
+# algorithms - fang -pal -ai
